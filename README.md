@@ -54,19 +54,19 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - <a name=""></a>W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]
 - <a name=""></a>Crowd Counting with Decomposed Uncertainty [[paper](http://arxiv.org/abs/1903.07427)]
-<!--- <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting [[paper](https://arxiv.org/abs/1811.11269)] -->
-<!--- Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling [[paper](https://arxiv.org/abs/1902.05379)] -->
-<!--- Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]-->
-<!--- Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)] -->
-<!--- Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)] -->
-<!--- PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)] -->
-<!--- Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)] -->
-<!--- Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)] -->
-<!--- Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)] -->
-<!--- Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)] -->
-<!--- Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)] -->
-<!--- Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] -->
-<!--- Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] -->
+- <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting [[paper](https://arxiv.org/abs/1811.11269)] 
+- Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling [[paper](https://arxiv.org/abs/1902.05379)] 
+- Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
+- Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)] 
+- Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)] 
+- PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)] 
+- Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)] 
+- Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)] 
+- Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)] 
+- Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)] 
+- Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)] 
+- Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] 
+- Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] 
   
 ### Methods dealing with the lack of labelled data
 - <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
